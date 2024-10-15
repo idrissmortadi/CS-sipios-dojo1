@@ -1,3 +1,5 @@
+(https://app.circleci.com/pipelines/circleci/YM4hSZRVzmJRar8ovbyKuE/AfV5F55rZRoZ1ywuSWiuqp.svg?style=svg)[https://app.circleci.com/pipelines/circleci/YM4hSZRVzmJRar8ovbyKuE/AfV5F55rZRoZ1ywuSWiuqp]
+
 This project was originally created by a former Sipios software engineer [Sebastien Lubineau](https://www.linkedin.com/in/sebastien-lubineau/) : [https://github.com/sebastien-lb/japcalculator](https://github.com/sebastien-lb/japcalculator)
 
 ## Available Scripts
